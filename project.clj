@@ -1,4 +1,4 @@
-(defproject sicia/lobos "1.0.0-beta2"
+(defproject kibu-australia/lobos "1.0.0-beta2"
   :description
   "A library to create and manipulate SQL database schemas."
   :url "http://github.com/siscia/lobos"
